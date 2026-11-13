@@ -1,0 +1,4 @@
+interface:
+  display_name: "writing-plans 规划文档编写"
+  short_description: "保存已确认需求与规划文档，澄清流程落盘后提醒用户在新会话实施"
+  default_prompt: "使用 $writing-plans 根据仓库事实编写并保存规划文档；若来自 $brainstorming，落盘后只返回路径并提醒我在新的会话中使用 $subagent-driven-development 实施，然后停止。"

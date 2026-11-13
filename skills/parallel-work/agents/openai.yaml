@@ -1,0 +1,4 @@
+interface:
+  display_name: "并行协作"
+  short_description: "以独立写入范围和明确接口安全并行并统一验证集成结果"
+  default_prompt: "使用 $parallel-work 只并行真正独立的任务，并检查接口、diff 和集成证据。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "精简开发"
+  short_description: "沿用既有目标与清单，以最小改动实现具体任务并取得风险相称的验证证据"
+  default_prompt: "使用 $lean-development 完成已明确任务中的具体实现增量，沿用既有目标和清单，以最小改动实现并核对边界、验证与最终差异。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "brainstorming 需求澄清"
+  short_description: "澄清需求并交接摘要落盘，只交付文档并提醒用户在新的会话开始实施"
+  default_prompt: "使用 $brainstorming 理解并确认需求，交给 $writing-plans 成功落盘后停止；返回文档路径并提醒我在新的会话中使用 $subagent-driven-development 开始实施，不在当前会话实施。"

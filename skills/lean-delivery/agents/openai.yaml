@@ -1,0 +1,4 @@
+interface:
+  display_name: "精简交付"
+  short_description: "核对范围、行为、差异和验证后输出真实可审计交付结论"
+  default_prompt: "使用 $lean-delivery 核对完成标准、最终差异、验证证据和剩余风险后交付。"

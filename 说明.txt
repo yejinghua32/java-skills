@@ -1,0 +1,3 @@
+cmd 管理员权限执行
+
+mklink C:\Users\WIN10\.grok\AGENTS.md C:\Users\WIN10\.agents\AGENTS.md

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git 交付"
+  short_description: "以差异归属、有效证据和独立授权安全完成 Git 交付动作"
+  default_prompt: "使用 $git-handoff 在验证通过后安全提交，或执行我明确授权的其他 Git 动作。"
